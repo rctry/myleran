@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56953820-cac0-4674-8b51-0aba3db70a83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afoTGUbeUIYU1j2XZjefyg83Zf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/rc/learn/springsecurity/dto" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mylearn\mylearn\springsecurity\src\main\java\com\rc\learn\springsecurity\common\api" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.rc.learn.springsecurity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mylearn\mylearn\springsecurity\src\main\java\com\rc\learn\springsecurity\dto" />
+      <recent name="D:\mylearn\mylearn\springsecurity\src\main\java\com\rc\learn\springsecurity\service\impl" />
+      <recent name="D:\mylearn\mylearn\springsecurity\src\main\java\com\rc\learn\springsecurity\service" />
+      <recent name="D:\mylearn\mylearn\springsecurity\src\main\java\com\rc\learn\springsecurity\config" />
+      <recent name="D:\mylearn\mylearn\springsecurity\src\main\resources\sql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringsecurityApplication">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rc.learn.springsecurity.mbg.Generator" />
+      <module name="springsecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rc.learn.springsecurity.mbg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in springsecurity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springsecurity" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springsecurity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rc.learn.springsecurity.SpringsecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in springsecurity" />
+        <item itemvalue="Application.Generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="746" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1587139238106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="746" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587139238106" />
+    <state x="606" y="263" width="513" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587139211606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="606" y="263" width="513" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1587139211606" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587138315195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587138315195" />
+    <state x="696" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587137043136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="696" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1587137043136" />
+    <state width="428" height="466" key="DebuggerActiveHint" timestamp="1587179589793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="428" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1587179589793" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1587181137430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587181137430" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1587181137430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587181137430" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1587181137431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1587181137431" />
+    <state x="413" y="39" key="Maven.ArtifactSearchDialog" timestamp="1587138067161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="39" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587138067161" />
+    <state x="263" y="13" key="SettingsEditor" timestamp="1587136312080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587136312080" />
+    <state x="702" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1587176644566">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="702" y="293" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587176644566" />
+    <state x="666" y="194" width="647" height="534" key="find.popup" timestamp="1587137301769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="666" y="194" width="647" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587137301769" />
+    <state x="67" y="118" key="new project wizard" timestamp="1587181134489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="67" y="118" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587181134489" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rc/learn/springsecurity/component/RestAuthenticationEntryPoint.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rc/learn/springsecurity/component/RestfulAccessDeniedHandler.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
